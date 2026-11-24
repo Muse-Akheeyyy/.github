@@ -17,7 +17,7 @@
 
 ### What this is
 
-Muse is an independent GPL-3.0 fork of [Metrolist](https://github.com/MetrolistGroup/Metrolist). It keeps the upstream feature set — YouTube Music playback, Listen Together, casting, lyrics, Last.fm and ListenBrainz scrobbling — with its own application id, icon, website and signed release channel, so it installs next to Metrolist without sharing data.
+Muse is a GPL-3.0 YouTube Music client with YouTube Music playback, Listen Together, casting, lyrics, Last.fm and ListenBrainz scrobbling, under its own application id, icon, website and signed release channel.
 
 - **App:** [Muse-Akheeyyy/Muse](https://github.com/Muse-Akheeyyy/Muse) — Android APKs, Android/desktop/iOS sources
 - **Website:** [muse-akheeyyy.pages.dev](https://muse-akheeyyy.pages.dev)
@@ -28,5 +28,5 @@ Muse is an independent GPL-3.0 fork of [Metrolist](https://github.com/MetrolistG
 Android builds are produced by GitHub Actions from `v*` tags with the tag build published straight to [Releases](https://github.com/Muse-Akheeyyy/Muse/releases). Desktop and iOS are built from source; see the repository's developer docs.
 
 <div align="center">
-<sub>Muse is not affiliated with YouTube, Google LLC or MetroList MLS.</sub>
+<sub>Muse is not affiliated with YouTube or Google LLC.</sub>
 </div>
